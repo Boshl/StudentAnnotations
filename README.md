@@ -4,7 +4,7 @@ This repository contains data collected from 193 German students who annotated G
 
 ## Publication
 
-We updated the dataset and are currently working on updating our publication. Our latest contribution can be found [here](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.77/2024.EDM-posters.77.pdf). This publication still refers to the dataset in the folder `/old_version/annotations.csv`.
+We updated the dataset and are currently working on updating our publication. Our latest contribution can be found [here](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.77/2024.EDM-posters.77.pdf). The publication still refers to the dataset in the folder `/old_version/annotations.csv`, but the updated dataset is already available in the file `annotations_new.csv`.
 
 ## Citation
 ```bibtex
