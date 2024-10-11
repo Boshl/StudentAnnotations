@@ -1,5 +1,7 @@
 # German Text Complexity Annotations by Students
 
+## Dataset
+
 This repository contains data collected from 193 German students who annotated German sentences for text complexity. The dataset is part of a research project aimed at analyzing and predicting text difficulty based on person-related and linguistic features. The dataset consists of 3954 German sentences annotated by students using a 5-point Likert scale.
 
 ## Publication
