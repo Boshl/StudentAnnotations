@@ -6,7 +6,7 @@ This repository contains data collected from 193 German students who annotated G
 
 ## Publication
 
- Our latest contribution can be found [here](https://jedm.educationaldatamining.org/index.php/JEDM/article/view/886). The dataset is available in the file `annotations_new.csv` and can be used for research purposes. Please cite the dataset as follows:
+ Our latest contribution can be found [here](https://jedm.educationaldatamining.org/index.php/JEDM/article/view/886). The dataset is available in the file `annotations.csv` and can be used for research purposes. Please cite the dataset as follows:
 
 ## Citation
 ```bibtex
