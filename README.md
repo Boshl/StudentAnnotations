@@ -6,13 +6,17 @@ This repository contains data collected from 193 German students who annotated G
 
 ## Publication
 
- Our latest contribution can be found [here](https://educationaldatamining.org/edm2024/proceedings/2024.EDM-posters.77/2024.EDM-posters.77.pdf). The publication still refers to the dataset in the folder `/old_version/annotations.csv`. We recently updated the dataset and are currently working on an updated version of the paper. The extended dataset is already available in the file `annotations_new.csv` and can be used for research purposes.
+ Our latest contribution can be found [here](https://jedm.educationaldatamining.org/index.php/JEDM/article/view/886). The dataset is available in the file `annotations_new.csv` and can be used for research purposes. Please cite the dataset as follows:
 
 ## Citation
 ```bibtex
-@article{thome2024determining,
-  title={Determining Perceived Text Complexity: An Evaluation of German Sentences Through Student Assessments},
-  author={Thome, Boris and Hertweck, Friederike and Conrad, Stefan},
-  year={2024}
+@article{thome2025predicting,
+  title={Predicting Perceived Text Complexity: The Role of Person-Related Features in Profile-Based Models},
+  author={Thome, Boris and Hertweck, Friederike and Conrad, Stefan and others},
+  journal={Journal of Educational Data Mining},
+  volume={17},
+  number={1},
+  pages={276--307},
+  year={2025}
 }
 ```
